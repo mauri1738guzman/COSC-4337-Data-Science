@@ -1,0 +1,16 @@
+● What is the vanishing gradient problem?
+decreases the value of product, until partial
+ derivate of the loss function approaches close to zero.
+
+● When does it happen?
+When there are more layers in the network
+
+● How can we get around/resolve it?
+replace the activation function of the network 
+
+● Give an example
+using ReLU
+
+● What type of data is best suited for an RNN/LSTM and why?
+sequential data because RNN is best suited for predicting what comes 
+next in a sequence of words.
